@@ -7,24 +7,25 @@
 }
 .Glitch01{font-family: bahnschrift;
   font-size: 30px;
-    
+
 }
 .Group01{display: flex;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
     justify-content: center;
 }
 p {
+  background-color: black;
   font-family: bahnschrift;
   font-size: 20px;
-}  
+}
 .Glitch{
     width: 1280px;
     height: 720px;
 }
 .Size{
     width: 577px;
-    height: 768px; 
-} 
+    height: 768px;
+}
 h1 {
   color: black;
   text-align: center;
